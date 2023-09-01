@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manolo vargas ríos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manolo vargas ríos" height="30" width="40" /></a>
-<a href="https://fb.com/manolo vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manolo vargas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manolo-vargas-rios-513614112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manolo vargas ríos" height="30" width="40" /></a>
+<a href="https://www.facebook.com/manolo.vargasrios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manolo vargas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
